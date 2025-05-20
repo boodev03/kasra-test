@@ -1,8 +1,8 @@
 "use client";
 
-import { Menu, PanelsTopLeft } from "lucide-react";
-import { useSidebar } from "@/components/ui/sidebar";
 import { Button } from "@/components/ui/button";
+import { useSidebar } from "@/components/ui/sidebar";
+import { PanelsTopLeft } from "lucide-react";
 
 export default function MobileMenuIcon() {
   const { setOpenMobile, openMobile } = useSidebar();
