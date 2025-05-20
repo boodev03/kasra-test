@@ -1,5 +1,7 @@
 # Admin Dashboard
 
+Preview: https://kasra-test.vercel.app/
+
 A modern admin dashboard built with Next.js 15, featuring a responsive sidebar layout and dark mode support.
 
 ## Features
