@@ -2,6 +2,18 @@
 
 Preview: https://kasra-test.vercel.app/
 
+Dashboard page:
+
+![Screenshot 2025-05-20 at 21 59 11](https://github.com/user-attachments/assets/483461d5-872e-4b50-a010-76e74c7c7c49)
+
+Setting page:
+![Screenshot 2025-05-20 at 21 59 43](https://github.com/user-attachments/assets/3ad86792-88d6-4909-8563-52d36d4fefb6)
+
+
+![Screenshot 2025-05-20 at 21 59 54](https://github.com/user-attachments/assets/2a4709b8-085f-4970-a5a0-463d5cb46c11)
+
+
+
 A modern admin dashboard built with Next.js 15, featuring a responsive sidebar layout and dark mode support.
 
 ## Features
