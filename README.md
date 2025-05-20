@@ -41,7 +41,7 @@ A modern admin dashboard built with Next.js 15, featuring a responsive sidebar l
 
    ```bash
    git clone git@github.com:boodev03/kasra-test.git or https://github.com/boodev03/kasra-test.git
-   cd admin-dashboard
+   cd kasra-test
    ```
 
 2. Install dependencies:
